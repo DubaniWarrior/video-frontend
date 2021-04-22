@@ -1,23 +1,13 @@
-# API Routes Example with CORS
+# React front end to display video
 
-Next.js ships with [API routes](https://nextjs.org/docs/api-routes/introduction) which provides an easy solution to build your own `API`.
+clone the repo with "git clone https://github.com/DubaniWarrior/video-frontend.git"
 
-This example shows how to create an `API` endpoint with [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) headers, using the [cors](https://github.com/expressjs/cors) package.
+## Install packages
 
-## Deploy your own
+to install all the package: npm i
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Run the project
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/api-routes-cors&project-name=api-routes-cors&repository-name=api-routes-cors)
+npm run dev
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example api-routes-cors api-routes-cors-app
-# or
-yarn create next-app --example api-routes-cors api-routes-cors-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+the back end project is found at: https://github.com/ahouzi/ema-kata.git
