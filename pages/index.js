@@ -33,7 +33,7 @@ const Index = () => {
               onChange={(e) => setTags(e.target.value)}
             />
           </FormGroup>
-          <VideoList Videos={filteredVideos} />
+          <VideoList Videos={Videos} />
         </Col>
       </Row>
       {Videos.forEach((video) => console.log(video.tags.includes(tags)))}
