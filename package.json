@@ -7,10 +7,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
     "cors": "2.8.5",
     "next": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.9.0"
   },
   "license": "MIT"
 }
